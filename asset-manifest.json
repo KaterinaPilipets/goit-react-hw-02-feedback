@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KaterinaPilipets.github.io/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
+    "main.js": "/KaterinaPilipets.github.io/goit-react-hw-02-feedback/static/js/main.11c27677.js",
+    "index.html": "/KaterinaPilipets.github.io/goit-react-hw-02-feedback/index.html",
+    "main.7acaea2f.css.map": "/KaterinaPilipets.github.io/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
+    "main.11c27677.js.map": "/KaterinaPilipets.github.io/goit-react-hw-02-feedback/static/js/main.11c27677.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.11c27677.js"
+  ]
+}
